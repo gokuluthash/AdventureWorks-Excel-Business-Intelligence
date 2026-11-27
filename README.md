@@ -59,8 +59,6 @@ The prepared tables were loaded into **Power Pivot** and connected through key-b
 
 ![Adventure Works Power Pivot Data Model](./Dashboard/data-model-relationships.png)
 
-> **If the image does not display:** confirm that the image file is uploaded to the repository at exactly `images/data-model-relationships.png`. GitHub paths are case-sensitive.
-
 ### Relationship overview
 
 | Dimension table | Key shown | Related fact-table key | Cardinality shown |
