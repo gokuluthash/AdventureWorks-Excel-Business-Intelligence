@@ -57,8 +57,6 @@ The prepared tables were loaded into **Power Pivot** and connected through key-b
 
 ### Data model relationship diagram
 
-### Data Model Relationship Diagram
-
 ![Adventure Works Power Pivot Data Model](./Dashboard/data-model-relationships.png)
 
 > **If the image does not display:** confirm that the image file is uploaded to the repository at exactly `images/data-model-relationships.png`. GitHub paths are case-sensitive.
