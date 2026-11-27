@@ -57,7 +57,9 @@ The prepared tables were loaded into **Power Pivot** and connected through key-b
 
 ### Data model relationship diagram
 
-![Adventure Works Power Pivot data model relationship diagram](./images/data-model-relationships.png)
+### Data Model Relationship Diagram
+
+![Adventure Works Power Pivot Data Model](./Dashboard/data-model-relationships.png)
 
 > **If the image does not display:** confirm that the image file is uploaded to the repository at exactly `images/data-model-relationships.png`. GitHub paths are case-sensitive.
 
@@ -147,7 +149,9 @@ The dashboard provides country selection controls for Australia, Canada, France,
 
 ## 5. Interactive Dashboard
 
-![Adventure Works Sales Analysis Excel dashboard](./images/sales-analysis-dashboard.png)
+## Interactive Dashboard
+
+![Adventure Works Sales Dashboard](./Dashboard/sales-analysis-dashboard.png)
 
 The dashboard includes:
 
