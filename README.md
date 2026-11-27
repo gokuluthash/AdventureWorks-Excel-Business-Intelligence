@@ -151,8 +151,9 @@ The dashboard provides country selection controls for Australia, Canada, France,
 
 ## Interactive Dashboard
 
-![Adventure Works Sales Dashboard](./Dashboard/sales-analysis-dashboard.png)
+## Interactive Sales Dashboard
 
+![Adventure Works Sales Analysis Dashboard](./Dashboard/Adventure_Works_Sales_Analysis_Dashboard.png)
 The dashboard includes:
 
 - KPI cards for quantity, COGS, revenue, profit, profit margin, and transactions.
