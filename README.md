@@ -149,10 +149,6 @@ The dashboard provides country selection controls for Australia, Canada, France,
 
 ## 5. Interactive Dashboard
 
-## Interactive Dashboard
-
-## Interactive Sales Dashboard
-
 ![Adventure Works Sales Analysis Dashboard](./Dashboard/Adventure_Works_Sales_Analysis_Dashboard.png)
 The dashboard includes:
 
