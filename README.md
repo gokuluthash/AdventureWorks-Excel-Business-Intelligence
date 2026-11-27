@@ -197,8 +197,6 @@ The dashboard includes:
 
 ## 9. Repository Structure
 
-Keep this exact structure when uploading to GitHub:
-
 ```text
 Adventure-Works-Sales-Analysis/
 │
